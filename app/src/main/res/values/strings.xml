@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Skin Main app</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_login">Skin Login</string>
+    <string name="prompt_password">Skin Password</string>
+    <string name="show_login">Skin Show login</string>
+    <string name="show_password">Skin Show password</string>
+    <string name="action_sign_in_short">Skin Sign in</string>
+</resources>
